@@ -1,4 +1,4 @@
-**سياسة الخصوصية - Quran AlJanaa**  
+**سياسة الخصوصية - قران راديو العالم**  
 =========================================  
 
 خصوصيتك مهمة بالنسبة لنا. لذلك، نحن نحترم خصوصيتك فيما يتعلق بأي معلومات قد نجمعها منك.  
@@ -10,7 +10,7 @@
 
 لن نشارك معلوماتك الشخصية مع أي جهة خارجية أو ننشرها علنًا إلا إذا كان ذلك مطلوبًا بموجب القانون.  
 
-تم تطوير تطبيق **Quran AlJanaa** بواسطة **A M H Decoration LLC-SPC** كتطبيق مدعوم بالإعلانات. يتم توفير هذه الخدمة من قبل **A M H Decoration LLC-SPC** مجانًا وهي مخصصة للاستخدام كما هي.  
+تم تطوير تطبيق **قران راديو العالم** بواسطة **A M H Decoration LLC-SPC** كتطبيق مدعوم بالإعلانات. يتم توفير هذه الخدمة من قبل **A M H Decoration LLC-SPC** مجانًا وهي مخصصة للاستخدام كما هي.  
 
 إذا اخترت استخدام خدمتنا، فإنك توافق على جمع واستخدام المعلومات وفقًا لهذه السياسة. المعلومات الشخصية التي نجمعها تُستخدم لتقديم الخدمة وتحسينها. لن نستخدم أو نشارك معلوماتك مع أي شخص باستثناء ما هو موضح في سياسة الخصوصية هذه.  
 
@@ -22,9 +22,6 @@
 - إعدادات التطبيق عند استخدام الخدمة  
 - تاريخ ووقت استخدام الخدمة  
 - إحصائيات أخرى متعلقة بالاستخدام  
-
-### الموقع الجغرافي  
-قد نطلب الوصول إلى موقعك الجغرافي لتحسين تجربة المستخدم داخل التطبيق، مثل عرض مواقيت الصلاة بناءً على موقعك. لن نشارك موقعك الجغرافي مع أي جهة خارجية أو نستخدمه لأي غرض آخر غير تحسين الخدمة. لديك خيار تعطيل الوصول إلى الموقع من خلال إعدادات جهازك.  
 
 ### ملفات تعريف الارتباط (Cookies)  
 التطبيق لا يستخدم ملفات تعريف الارتباط بشكل مباشر، ولكن قد تستخدم بعض الأكواد والمكتبات التابعة لجهات خارجية ملفات تعريف الارتباط لجمع المعلومات وتحسين خدماتها. لديك الخيار في قبول أو رفض ملفات تعريف الارتباط، ولكن قد يؤثر رفضها على بعض وظائف التطبيق.  
@@ -56,82 +53,77 @@
 ### تغييرات سياسة الخصوصية  
 قد نقوم بتحديث سياسة الخصوصية من وقت لآخر، لذلك يُنصح بمراجعة هذه الصفحة بشكل دوري لأي تغييرات. سنقوم بإبلاغك بأي تغييرات من خلال نشر السياسة الجديدة هنا.  
 
-**تاريخ السريان: 16/02/2025**  
+**تاريخ السريان: 22/02/2025**  
 
 ### الاتصال بنا  
 إذا كانت لديك أي أسئلة أو استفسارات حول سياسة الخصوصية، لا تتردد في التواصل معنا عبر البريد الإلكتروني التالي:  
 📧 **amh.group1991@gmail.com**  
 
+
+
 🚀 **A M H Decoration LLC-SPC**
 
 
-Privacy Policy - Quran AlJanaa
-Your privacy is important to us. Therefore, we respect your privacy regarding any information we may collect from you.
+**Privacy Policy - Quran Radio World**  
+=========================================  
 
-Information Collection and Use
-We only request personal information when it is truly needed to provide the service. We collect it through legal and fair means, with your knowledge and consent. We also inform you why we collect it and how it will be used.
+Your privacy is important to us. Therefore, we respect your privacy regarding any information we may collect from you.  
 
-We retain the collected information only as long as necessary to provide the requested service. When storing data, we protect it using commercially acceptable measures to prevent loss, theft, unauthorized access, disclosure, copying, misuse, or modification.
+### Information Collection and Use  
+We request personal information only when necessary to provide our service. We collect it legally and fairly, with your knowledge and consent. We also inform you why we collect it and how it will be used.  
 
-We do not share your personally identifiable information publicly or with third parties, except when required by law.
+We retain collected information only as long as necessary to provide the requested service. When storing data, we protect it using commercially acceptable means to prevent loss, theft, unauthorized access, disclosure, copying, misuse, or modification.  
 
-The Quran AlJanaa app was developed by A M H Decoration LLC-SPC as an ad-supported application. This service is provided by A M H Decoration LLC-SPC at no cost and is intended for use as is.
+We do not share your personal information with third parties or publicly disclose it unless required by law.  
 
-If you choose to use our service, you agree to the collection and use of information in accordance with this policy. The personal information we collect is used for providing and improving the service. We will not use or share your information with anyone except as described in this Privacy Policy.
+The **Quran Radio World** app is developed by **A M H Decoration LLC-SPC** as an ad-supported application. This service is provided by **A M H Decoration LLC-SPC** free of charge and is intended for use as-is.  
 
-Log Data
-Whenever an error occurs while using the app, we collect log data through third-party services. This log data may include:
+By choosing to use our service, you agree to the collection and use of information in accordance with this policy. The personal information we collect is used to provide and improve the service. We do not use or share your information except as described in this Privacy Policy.  
 
-Your device’s IP address
-Device name
-Operating system version
-App configuration when using the service
-Date and time of service usage
-Other relevant statistics
-Location Access
-We may request access to your location to enhance the user experience within the app, such as displaying prayer times based on your location. We will not share your location with any third party, nor will we use it for any purpose other than improving the service. You have the option to disable location access through your device settings.
+### Log Data  
+If an error occurs while using the app, we collect log data through third-party products. This log data may include information such as:  
+- Your device's **IP** address  
+- Device name  
+- Operating system version  
+- App settings when using the service  
+- Date and time of service use  
+- Other relevant usage statistics  
 
-Cookies
-The app does not directly use cookies. However, third-party services integrated into the app may use cookies to collect information and improve their services. You have the option to accept or refuse cookies, but refusing them may affect certain functionalities of the app.
+### Cookies  
+The app does not use cookies directly, but some third-party codes and libraries may use cookies to collect information and improve their services. You have the option to accept or refuse cookies, but refusing them may affect certain app functions.  
 
-Service Providers
-We may engage third-party companies and individuals for the following reasons:
+### Service Providers  
+We may use third-party services for the following reasons:  
+- To facilitate our service  
+- To provide the service on our behalf  
+- To perform service-related tasks  
+- To analyze how the service is used  
 
-To facilitate our service
-To provide the service on our behalf
-To perform service-related tasks
-To help analyze how our service is used
-These third parties may have access to your personal information only to perform these tasks on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+These third parties have access to your personal information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose.  
 
-Security
-We value your trust in providing us with your personal information, and we strive to use commercially acceptable means to protect it. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+### Security  
+We take your personal information's security seriously and use commercially acceptable means to protect it. However, no method of data transmission or electronic storage is 100% secure, so we cannot guarantee absolute security.  
 
-Links to Other Sites
-The app may contain links to external sites. If you click on a third-party link, you will be directed to that site. Please note that these external sites are not operated by us, and we strongly recommend reviewing their privacy policies. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party websites or services.
+### Links to Other Websites  
+The app may contain links to external sites. If you click on a third-party link, you will be redirected to their site. We do not control these websites, so we recommend reviewing their privacy policies, as we are not responsible for their content or privacy practices.  
 
-Children’s Privacy
-This service does not target individuals under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we discover that a child under 13 has provided us with personal information, we will immediately delete it from our servers. If you are a parent or guardian and you become aware that your child has provided us with personal information, please contact us so we can take the necessary action.
+### Children's Privacy  
+The app does not provide services to individuals under 13, and we do not knowingly collect personal information from children under 13. If we discover that a child has provided us with personal data, we will delete it immediately. If you are a parent or guardian and believe your child has provided us with personal information, please contact us to take necessary action.  
 
-User Commitments
-Users must adhere to the following obligations while using the app:
+### User Obligations  
+While using the app, users must refrain from the following:  
+1. Engaging in illegal activities or violating public morals.  
+2. Posting content that promotes hate, racism, violence, or violates others' rights.  
+3. Attempting to harm our servers, software systems, or service providers by spreading viruses or malicious code.  
 
-Do not engage in illegal activities or actions that violate public morals.
-Do not publish content that promotes hate, racism, violence, or violates the rights of others.
-Do not attempt to harm our servers or software by introducing viruses or malicious code.
-Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Therefore, we encourage you to review this page periodically for any changes. We will notify you of any updates by posting the revised Privacy Policy here.
+### Changes to the Privacy Policy  
+We may update this Privacy Policy from time to time, so we advise checking this page periodically for any changes. We will notify you of any updates by posting the new policy here.  
 
-Effective Date: 16/02/2025
+**Effective Date: 22/02/2025**  
 
-Contact Us
-If you have any questions or concerns regarding this Privacy Policy, feel free to contact us at:
-📧 amh.group1991@gmail.com
-
-🚀 A M H Decoration LLC-SPC
-
-
-
-
+### Contact Us  
+If you have any questions or inquiries regarding the Privacy Policy, please feel free to contact us at:  
+📧 **amh.group1991@gmail.com**  
 
 
 
